@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'VideoFisher_Example' do
+  pod 'VideoFisher', :path => '../'
+
+  target 'VideoFisher_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
