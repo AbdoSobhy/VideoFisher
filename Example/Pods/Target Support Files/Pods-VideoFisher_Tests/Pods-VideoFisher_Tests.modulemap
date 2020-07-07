@@ -1,0 +1,6 @@
+framework module Pods_VideoFisher_Tests {
+  umbrella header "Pods-VideoFisher_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

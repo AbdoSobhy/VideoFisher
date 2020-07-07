@@ -1,0 +1,16 @@
+PODS:
+  - VideoFisher (0.1.0)
+
+DEPENDENCIES:
+  - VideoFisher (from `../`)
+
+EXTERNAL SOURCES:
+  VideoFisher:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  VideoFisher: 28c1e15c85ae633b49fc13bf4477d57f68853878
+
+PODFILE CHECKSUM: 072e4104d4865a38eb5874a8f811fff528d336f4
+
+COCOAPODS: 1.9.0

@@ -1,0 +1,6 @@
+framework module VideoFisher {
+  umbrella header "VideoFisher-umbrella.h"
+
+  export *
+  module * { export * }
+}
