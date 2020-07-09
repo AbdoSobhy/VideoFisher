@@ -1,5 +1,5 @@
 # VideoFisher
-
+VideoFisher is a powerful Swift library for playing videos by there url .
 [![CI Status](https://img.shields.io/travis/AbdoAhmedSobhy@hotmail.com/VideoFisher.svg?style=flat)](https://travis-ci.org/AbdoAhmedSobhy@hotmail.com/VideoFisher)
 [![Version](https://img.shields.io/cocoapods/v/VideoFisher.svg?style=flat)](https://cocoapods.org/pods/VideoFisher)
 [![License](https://img.shields.io/cocoapods/l/VideoFisher.svg?style=flat)](https://cocoapods.org/pods/VideoFisher)
