@@ -1,5 +1,6 @@
 # VideoFisher
 VideoFisher is a powerful Swift library for playing videos by there url .
+
 [![CI Status](https://img.shields.io/travis/AbdoAhmedSobhy@hotmail.com/VideoFisher.svg?style=flat)](https://travis-ci.org/AbdoAhmedSobhy@hotmail.com/VideoFisher)
 [![Version](https://img.shields.io/cocoapods/v/VideoFisher.svg?style=flat)](https://cocoapods.org/pods/VideoFisher)
 [![License](https://img.shields.io/cocoapods/l/VideoFisher.svg?style=flat)](https://cocoapods.org/pods/VideoFisher)
@@ -8,7 +9,8 @@ VideoFisher is a powerful Swift library for playing videos by there url .
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-##Screenshots
+
+## Screenshots
 ![47rp96](https://user-images.githubusercontent.com/21291866/87088877-d45ad800-c235-11ea-9a8a-477023907fec.gif)
 ## Requirements
 iOS 10+
